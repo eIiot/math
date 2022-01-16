@@ -1,0 +1,11 @@
+#svg {
+  overflow: scroll;
+}
+
+path {
+  overflow: scroll;
+}
+
+a {
+  cursor: pointer;
+}
